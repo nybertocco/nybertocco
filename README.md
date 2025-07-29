@@ -1,5 +1,3 @@
-<span> Desenvolvedor Front-End</span>
-
 <h1 align="center">Sobre mim:</h1>
 
 <p align="center">
