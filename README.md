@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Nycolas 👋</h1>
+<h1 align="center">Sobre mim:</h1>
 
 <p align="center">
   Desenvolvedor Front-End com experiências em interfaces modernas, responsivas e acessíveis com foco em usabilidade e performance.
@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Tecnologias que uso no dia a dia
+###  Tecnologias que uso no dia a dia
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
